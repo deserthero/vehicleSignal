@@ -1,0 +1,5 @@
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.DependencyResolver\bin\Debug\VehicleSignal.DependencyResolver.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.DependencyResolver\bin\Debug\VehicleSignal.DependencyResolver.pdb
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.DependencyResolver\obj\Debug\VehicleSignal.DependencyResolver.csprojResolveAssemblyReference.cache
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.DependencyResolver\obj\Debug\VehicleSignal.DependencyResolver.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.DependencyResolver\obj\Debug\VehicleSignal.DependencyResolver.pdb

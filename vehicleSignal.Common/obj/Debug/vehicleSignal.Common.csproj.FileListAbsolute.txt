@@ -1,0 +1,5 @@
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Common\bin\Debug\vehicleSignal.Common.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Common\bin\Debug\vehicleSignal.Common.pdb
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Common\obj\Debug\vehicleSignal.Common.csprojResolveAssemblyReference.cache
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Common\obj\Debug\vehicleSignal.Common.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Common\obj\Debug\vehicleSignal.Common.pdb

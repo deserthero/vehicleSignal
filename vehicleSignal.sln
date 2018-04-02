@@ -3,7 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicleSignal", "vehicleSignal\vehicleSignal.csproj", "{1CE8DAB8-BC63-428A-916D-2CEE55C8C100}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Core", "vehicleSignal.Core", "{A1D149CB-3DC5-4C3C-8EC0-D4EF3E554848}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Core.Models", "vehicleSignal.Core.Models", "{22977B28-E471-48FE-A32D-8D3EF6E6FEC9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Common", "vehicleSignal.Common", "{C1AF6D56-9968-4238-B32A-106789DD2348}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.DependencyResolver", "vehicleSignal.DependencyResolver", "{52DA982F-2716-4134-8609-9CED0AC4B262}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Infrastructure", "vehicleSignal.Infrastructure", "{8DA42144-FE8A-4072-837F-15EEF979A03A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Core.Tests", "vehicleSignal.Core.Tests", "{969205F3-754E-4110-A080-19A954C7EA44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exceptions", "Exceptions", "{A1524CC3-D28A-422A-94D8-3F218997D1E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSignal.DependencyResolver", "VehicleSignal.DependencyResolver\VehicleSignal.DependencyResolver.csproj", "{201E15F6-AB5B-4A33-B532-D983BD75B569}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Web", "vehicleSignal.Web", "{C3D17255-513F-4B2C-B827-56EA15BE1A09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "vehicleSignal.Infrastructure.Logging", "vehicleSignal.Infrastructure.Logging", "{12D91C22-4153-463D-AC20-A4D316BDBEA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicleSignal.Core", "vehicleSignal.Core\vehicleSignal.Core.csproj", "{4848263B-FE88-47FC-B652-4788A77A63AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vehicleSignal.Common", "vehicleSignal.Common\vehicleSignal.Common.csproj", "{E588FE6A-0BE0-42AB-9144-872B2E841685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSignal.Models", "VehicleSignal.Models\VehicleSignal.Models.csproj", "{9B5B6CE6-1D87-4D8F-852A-35E392931CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleSignal.Core.Tests", "VehicleSignal.Core.Tests\VehicleSignal.Core.Tests.csproj", "{DA613E64-E0C0-4F29-AD27-E0F08D535EDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,12 +37,36 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1CE8DAB8-BC63-428A-916D-2CEE55C8C100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CE8DAB8-BC63-428A-916D-2CEE55C8C100}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CE8DAB8-BC63-428A-916D-2CEE55C8C100}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CE8DAB8-BC63-428A-916D-2CEE55C8C100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201E15F6-AB5B-4A33-B532-D983BD75B569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201E15F6-AB5B-4A33-B532-D983BD75B569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201E15F6-AB5B-4A33-B532-D983BD75B569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201E15F6-AB5B-4A33-B532-D983BD75B569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4848263B-FE88-47FC-B652-4788A77A63AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4848263B-FE88-47FC-B652-4788A77A63AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4848263B-FE88-47FC-B652-4788A77A63AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4848263B-FE88-47FC-B652-4788A77A63AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E588FE6A-0BE0-42AB-9144-872B2E841685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E588FE6A-0BE0-42AB-9144-872B2E841685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E588FE6A-0BE0-42AB-9144-872B2E841685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E588FE6A-0BE0-42AB-9144-872B2E841685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B5B6CE6-1D87-4D8F-852A-35E392931CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5B6CE6-1D87-4D8F-852A-35E392931CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5B6CE6-1D87-4D8F-852A-35E392931CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5B6CE6-1D87-4D8F-852A-35E392931CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA613E64-E0C0-4F29-AD27-E0F08D535EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA613E64-E0C0-4F29-AD27-E0F08D535EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA613E64-E0C0-4F29-AD27-E0F08D535EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA613E64-E0C0-4F29-AD27-E0F08D535EDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1524CC3-D28A-422A-94D8-3F218997D1E1} = {22977B28-E471-48FE-A32D-8D3EF6E6FEC9}
+		{201E15F6-AB5B-4A33-B532-D983BD75B569} = {52DA982F-2716-4134-8609-9CED0AC4B262}
+		{4848263B-FE88-47FC-B652-4788A77A63AF} = {A1D149CB-3DC5-4C3C-8EC0-D4EF3E554848}
+		{E588FE6A-0BE0-42AB-9144-872B2E841685} = {C1AF6D56-9968-4238-B32A-106789DD2348}
+		{9B5B6CE6-1D87-4D8F-852A-35E392931CB2} = {22977B28-E471-48FE-A32D-8D3EF6E6FEC9}
+		{DA613E64-E0C0-4F29-AD27-E0F08D535EDE} = {969205F3-754E-4110-A080-19A954C7EA44}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\bin\Debug\vehicleSignal.Core.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\bin\Debug\vehicleSignal.Core.pdb
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\obj\Debug\vehicleSignal.Core.csprojResolveAssemblyReference.cache
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\obj\Debug\vehicleSignal.Core.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\obj\Debug\vehicleSignal.Core.pdb
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\bin\Debug\VehicleSignal.Models.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\vehicleSignal.Core\bin\Debug\VehicleSignal.Models.pdb

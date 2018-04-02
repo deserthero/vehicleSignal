@@ -1,0 +1,5 @@
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.Models\bin\Debug\VehicleSignal.Models.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.Models\bin\Debug\VehicleSignal.Models.pdb
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.Models\obj\Debug\VehicleSignal.Models.csprojResolveAssemblyReference.cache
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.Models\obj\Debug\VehicleSignal.Models.dll
+C:\Users\amarzouk\Documents\Visual Studio 2015\Projects\amustafa\vehicleSignal\VehicleSignal.Models\obj\Debug\VehicleSignal.Models.pdb
